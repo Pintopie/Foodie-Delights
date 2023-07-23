@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Delicious
-Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This website template is made by Pintopie using bootstraps from https://www.bootstrap.com 
